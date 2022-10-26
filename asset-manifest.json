@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.24d3f550.js",
+    "main.js": "/static/js/main.784f4429.js",
     "static/media/GmarketSansMedium.ttf": "/static/media/GmarketSansMedium.d4bac6b182bed73c9375.ttf",
     "static/media/mojitto2.png": "/static/media/mojitto2.f032f439bd7947d7ebae.png",
     "static/media/mojitto.png": "/static/media/mojitto.6bcd6c2044e70c8f3222.png",
     "index.html": "/index.html",
-    "main.24d3f550.js.map": "/static/js/main.24d3f550.js.map"
+    "main.784f4429.js.map": "/static/js/main.784f4429.js.map"
   },
   "entrypoints": [
-    "static/js/main.24d3f550.js"
+    "static/js/main.784f4429.js"
   ]
 }
